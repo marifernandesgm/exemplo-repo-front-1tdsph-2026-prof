@@ -1,4 +1,4 @@
-/*#cabecalho{
+#cabecalho{
     background-color: #1a1a1c;
     padding: 1%;
     color: #fff;
@@ -39,8 +39,8 @@
     box-sizing: border-box;
 }
 
-h1 {
-    width: 100px;
-    leight: 100px;
-    border: 2px solid #000000;
+#container{
+    width: 70%;
+    margin: 0 auto;
 }
+
