@@ -1,5 +1,4 @@
-
-#cabecalho{
+/*#cabecalho{
     background-color: #1a1a1c;
     padding: 1%;
     color: #fff;
@@ -29,4 +28,19 @@
     text-decoration: none;
 }
 
+#unico {
+    color:rgb(245, 245, 245);
+    }
+    */
 
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+h1 {
+    width: 100px;
+    leight: 100px;
+    border: 2px solid #000000;
+}
